@@ -3,11 +3,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fran_crr7?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/fran_crr7)
 
-<img  width="310px" src="/icons/head.png">
+<img  width="310px" src="/Icons/head.png">
 
 ---
 
- ### <img  width="30px" src="/icons/pc-computer.png">
+ ### <img  width="30px" src="/Icons/pc-computer.png">
 
 <!--- 🔭 I’m currently working on my own projects
 related to web development ... -->
