@@ -22,7 +22,7 @@ related to web development ... -->
 
 ---
 
-### Coding 👨🏻‍💻 <img  alt="visualStudioCode" width="23px" src="/Icons/visualStudioCode.png" /> 
+### Coding 👨🏻‍💻  
 
 <img align="left" alt="HTML" width="32px" src="/Icons/html.png" /> 
 <img align="left" alt="CSS" width="30px" src="/Icons/css.png" />
